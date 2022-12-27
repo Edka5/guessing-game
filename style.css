@@ -1,0 +1,23 @@
+body {
+    background-image: url(images/body_img.jpg);
+    background-size: 100vw 100vh;
+}
+
+.game-card {
+    height:  100vh;
+}
+
+.card-body {
+    background-color: rgba(14, 221, 59, 0.432);
+}
+
+
+
+label {
+    padding: 0px 10px 0px 0px;
+}
+
+
+.hidden {
+    display: none;
+}
